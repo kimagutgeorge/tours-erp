@@ -1,0 +1,210 @@
+[27-Sep-2023 10:22:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:22:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:22:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:22:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:22:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:22:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:23:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:24:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:24:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:24:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:25:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:25:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[27-Sep-2023 10:25:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:15:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:16:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:16:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:16:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:16:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:16:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[28-Sep-2023 02:16:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[02-Oct-2023 10:52:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
+[02-Oct-2023 10:52:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'tour_type.PRIMARY' in /home/geomicto/public_html/admin/class/class.php:128
+Stack trace:
+#0 /home/geomicto/public_html/admin/class/class.php(128): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/geomicto/public_html/admin/class/class.php on line 128
